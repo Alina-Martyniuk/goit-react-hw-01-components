@@ -5,6 +5,7 @@ border-radius: 5px;
 border: grey solid 2px;
 font-size: 30px;
 padding: 20px;
+margin-bottom: 40px;
 `;
 
 export const Descr = styled.div`

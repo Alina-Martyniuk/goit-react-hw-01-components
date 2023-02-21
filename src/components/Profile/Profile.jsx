@@ -29,7 +29,7 @@ export const Profile = ({ user }) => {
                 <span class="quantity">{user.stats.likes}</span>
             </StatsItem>
         </StatsList>
-    </ProfileWrapper>
+        </ProfileWrapper>
 }
 
 Profile.propTypes = {
